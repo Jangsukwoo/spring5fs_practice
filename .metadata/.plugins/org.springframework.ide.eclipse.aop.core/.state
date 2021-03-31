@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="sp5-chap11-tag"/>
+<aop-project name="sp5-chap13"/>
+<aop-project name="sp5-chap11"/>
+<aop-project name="sp5-chap17"/>
+<aop-project name="sp5-chap12-bv"/>
+<aop-project name="sp5-chapc"/>
+<aop-project name="sp5-chap16"/>
+<aop-project name="sp5-chap14"/>
+<aop-project name="sp5-chap12"/>
+<aop-project name="sp5-chap10"/>
+<aop-project name="sp5-chap09"/>
+<aop-project name="sp5-chap12-gl"/>
+</aop-reference-model>
